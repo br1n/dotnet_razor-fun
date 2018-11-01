@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/razor_fun/bin/Debug/netcoreapp2.0/razor_fun.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/razor_fun/bin/Debug/netcoreapp2.0/razor_fun.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/razor_fun/bin/Debug/netcoreapp2.0/razor_fun.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/razor_fun/bin/Debug/netcoreapp2.0/razor_fun.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/razor_fun/bin/Debug/netcoreapp2.0/razor_fun.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/razor_fun/obj/Debug/netcoreapp2.0/razor_fun.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/razor_fun/obj/Debug/netcoreapp2.0/razor_fun.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/razor_fun/obj/Debug/netcoreapp2.0/razor_fun.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/razor_fun/obj/Debug/netcoreapp2.0/razor_fun.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/CS_week_3/razor_fun/obj/Debug/netcoreapp2.0/razor_fun.pdb
